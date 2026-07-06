@@ -1,4 +1,4 @@
-# 
+# 精英 SushiSwap交易机器人 脚本 for Mac OS | 终极 SushiSwap交易机器人 脚本 for PC Windows. Featuring 动量分析 and 去中心化交易所API — optimized for maximum performance.
 
 
 
